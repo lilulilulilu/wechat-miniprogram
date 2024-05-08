@@ -1,0 +1,1 @@
+<view bindtap="handleTap">新页面</view>
